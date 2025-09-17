@@ -15,6 +15,6 @@ Planned improvements
 
 Credits
  - Site created by Saitox Beats — https://saitoxbeats.me/ (GitHub: https://github.com/SaitoxBeats)
- - Donations/support: https://buymeacoffee.com/saitoxbeats
+ - Donations/support: https://ko-fi.com/saitoxbeats
 
 Note: This project is an unofficial fan gallery and is not affiliated with the artist.
