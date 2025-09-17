@@ -1,17 +1,20 @@
-# Aphex Twin Wallpapers — Base de Galeria
+# Aphex Twin Wallpapers — Gallery
 
-Base minimalista (preto e branco) para armazenar e visualizar wallpapers do artista Aphex Twin.
+AFXWALLS is a small, unofficial static gallery collecting wallpapers inspired by Aphex Twin artwork. The site showcases images shared by community contributors and is intended for personal, non-commercial use only. Wallpapers are provided as external/shared links rather than hosted directly on this site.
 
-Arquivos principais:
-- `index.html` — estrutura da galeria, abas Desktop/Mobile e lightbox.
-- `styles.css` — estilos minimalistas (sem bordas arredondadas).
-- `script.js` — lógica de abas e lightbox.
+If you are the owner of any image featured here and would like it removed, please contact the site maintainer at `studio.bytelowergames@gmail.com`.
 
-Como usar localmente:
-1. Abra `index.html` em um navegador moderno (drag & drop ou "Open File").
-2. Clique nas abas "Desktop" e "Mobile" para alternar as coleções.
-3. Clique em uma miniatura para abrir o lightbox; feche com o botão "Fechar" ou `Esc`.
+Contributing
+ - To suggest or add a wallpaper, email your submission to the address above.
 
-Notas:
-- Atualmente usa imagens SVG inline como placeholders. Troque os atributos `data-full` e `img src` em `index.html` pelos caminhos reais dos arquivos.
-- Mantive foco em acessibilidade básica: roles, aria-labels e keyboard support para fechar o lightbox.
+Planned improvements
+ - Make the site dynamic (server-backed hosting)
+ - Allow direct uploads so contributors can add wallpapers through the web interface
+ - Provide a lightweight online editor with templates and a vector logo for quick edits and exports
+ - Preserve anonymity: no account system or forum; the gallery will remain open and anonymous by design
+
+Credits
+ - Site created by Saitox Beats — https://saitoxbeats.me/ (GitHub: https://github.com/SaitoxBeats)
+ - Donations/support: https://buymeacoffee.com/saitoxbeats
+
+Note: This project is an unofficial fan gallery and is not affiliated with the artist.
