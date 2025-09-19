@@ -70,3 +70,6 @@ body {
 .lb-controls { position: absolute; left: 0; right: 0; top: 18px; display: flex; justify-content: space-between; padding: 0 20px; }
 
 .visually-hidden { position: absolute !important; height: 1px; width: 1px; overflow: hidden; clip: rect(1px,1px,1px,1px); }
+
+/* Panel Header */
+.panel-header { border: solid 1px yellow; padding: 5px 16px; text-align: center; color: yellow; }
